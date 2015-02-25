@@ -24,3 +24,11 @@ TARGET_KERNEL_CONFIG := cyanogenmod_f510_defconfig
 
 # inherit from the proprietary version
 -include vendor/lge/f510/BoardConfigVendor.mk
+
+# BlissPop Configs
+BLISS_BUILD_BLOCK := 1
+TARGET_TC_ROM := 4.8
+TARGET_TC_KERNEL := 4.9-sm
+BLISS_STRICT := true
+BLISS_GRAPHITE := true
+BLISS_KRAIT := true
