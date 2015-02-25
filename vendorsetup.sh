@@ -1,1 +1,1 @@
-add_lunch_combo cm_f510-userdebug
+add_lunch_combo bliss_f510-userdebug
